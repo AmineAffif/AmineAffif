@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
 <h3 align="center">A passionate fullstack developer from France 🥖</h3>
-- 🔭 I’m currently working on [Study Advisor](https://www.studyadvisor.fr/)
-- 🔭 Also working on [Stydy Call](http://www.studycall.fr/)
-- 🔭 And some on [Study Quizz](https://www.studyquizz.fr/)
-- 💬 Ask me about **Rails, Ruby, React, Laravel, Design**
-- 📫 How to reach me **https://www.linkedin.com/in/amine-affif/**
-- ⚡ Fun fact **kaizoku ou ni ore wa naru**
+* 🔭 I’m currently working on [Study Advisor](https://www.studyadvisor.fr/)
+* 🔭 Also working on [Stydy Call](http://www.studycall.fr/)
+* 🔭 And some on [Study Quizz](https://www.studyquizz.fr/)
+* 💬 Ask me about **Rails, Ruby, React, Laravel, Design**
+* 📫 How to reach me **https://www.linkedin.com/in/amine-affif/**
+* ⚡ Fun fact **kaizoku ou ni ore wa naru**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/amine-affif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amine-affif" height="30" width="40" /></a>
