@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Study Advisor](https://www.studyadvisor.fr/)
 
-- 🔭 Also working on [Stydy Call](http://www.studycall.fr/)
+     Also working on [Stydy Call](http://www.studycall.fr/)
 
-- 🔭 And some on [Study Quizz](https://www.studyquizz.fr/)
+     And some on [Study Quizz](https://www.studyquizz.fr/)
 
 - 💬 Ask me about **Rails, Ruby, React, Laravel, Design**
 
