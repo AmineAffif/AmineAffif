@@ -5,8 +5,6 @@
 
      Also working on [Stydy Call](http://www.studycall.fr/)
 
-     And some on [Study Quizz](https://www.studyquizz.fr/)
-
 - 💬  Ask me about **Rails, Ruby, React, Laravel, Design**
 
 - 📫  How to reach me **https://www.linkedin.com/in/amine-affif/**
