@@ -18,16 +18,15 @@
   - **Alternant Fullstack @ L'Étudiant - StudyAdvisor (2022)** : Ruby on Rails, React Native, Gestion de projet
   - **Stage Dev Web/Mobile @ GYRA (2021)** : React Native, Laravel, Conception technique
   
-- 🌱 **En veille** sur les technos Cloud (GCP, AWS, Vercel), l'automatisation (CI/CD, Big Data), la partie **UI/UX** et le **marketing digital**.
+- 🌱 **En veille** sur les technos Cloud (GCP, AWS, Vercel), l'automatisation (CI/CD, Big Data), l'**UI/UX** et le **marketing digital**.
 
-- 🤝 **Intéressé par** : un poste Fullstack / DevOps où je peux apporter mes **compétences transverses** (design, dev, marketing...).  
+- 🤝 **Intéressé par** : un poste Fullstack où je peux apporter mes **compétences transverses**.
   J'aime travailler sur des projets **ambitieux**, dans une équipe dynamique.
 
-- 🔭 **Actuellement** : Ouvert aux opportunités (freelance, CDI ou alternance). Je suis en France, mais motivé par le remote / le challenge !
+- 🔭 **Actuellement** : Ouvert aux opportunités (freelance ou CDI). Je suis en France, mais motivé par le remote !
 
 - 📫 **Contact** :  
   - **[LinkedIn](https://www.linkedin.com/in/amine-affif/)**
-  - **[StackOverflow](https://stackoverflow.com/users/13263501/amine-affif)**
   - **[Behance](https://www.behance.net/amineaffif)**  
   - **[YouTube](https://www.youtube.com/channel/UC4XMGyb4tcoei9U_K7BM5eA)**
 
@@ -75,8 +74,7 @@
 
 ### Fun facts
 - 💎 **Design addict** (Photoshop, After Effects...).  
-- 🤖 **Passionné** par l’IoT (ESP32, Raspberry Pi...).  
-- 🛵 **Moto lover** : j’adore la liberté que ça procure !  
+- 🤖 **Passionné** par l’IoT (ESP32, Raspberry Pi...), j’adore fabriquer des objets en tout genre de A à Z !
 - 🏋 **Toujours** prêt à relever un challenge sportif (ou technique).
 
 ---
