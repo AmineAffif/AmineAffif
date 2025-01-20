@@ -12,11 +12,11 @@
 ---
 
 - 💼 **Dernières expériences** :
-  - **Alternant Fullstack @ Cévidentia (2024)** : Rails, Next.js, CI/CD, UX/UI, etc.
+  - **Dev Fullstack @ Cévidentia (2024)** : Rails, Next.js, CI/CD, UX/UI, etc. - Alternant
   - **Freelance** : Développement complet de projets SaaS & e-commerce (Stripe, WordPress, Marketing, etc.)
-  - **Alternant Fullstack @ StudyCall (2023)** : Rails, IA, Big Data & Optimisation
-  - **Alternant Fullstack @ L'Étudiant - StudyAdvisor (2022)** : Ruby on Rails, React Native, Gestion de projet
-  - **Stage Dev Web/Mobile @ GYRA (2021)** : React Native, Laravel, Conception technique
+  - **Dev Fullstack @ StudyCall (2023)** : Rails, IA, Big Data & Optimisation - Alternant
+  - **Dev Fullstack @ L'Étudiant - StudyAdvisor (2022)** : Ruby on Rails, React Native, Gestion de projet - Alternant
+  - **Dev Web/Mobile @ GYRA (2021)** : React Native, Laravel, Conception technique - Stage
   
 - 🌱 **En veille** sur les technos Cloud (GCP, AWS, Vercel), l'automatisation (CI/CD, Big Data), l'**UI/UX** et le **marketing digital**.
 
